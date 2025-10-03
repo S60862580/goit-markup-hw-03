@@ -222,6 +222,10 @@ a {
 }
 .folder-section {
   padding-top: 120px;
+  padding-bottom: 120px;
+}
+.team-photo {
+  border-top: none;
 }
 .third-title {
   margin-bottom: 72px;
